@@ -9,7 +9,7 @@ const Header = () => {
     ">
         <div className="flex gap-2 items-center">
             <img 
-                src="/public/TrollFace.png" 
+                src="TrollFace.png" 
                 alt="Troll Face" 
                 className="w-8 sm:w-9"
                 
